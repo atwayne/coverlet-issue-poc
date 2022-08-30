@@ -1,4 +1,4 @@
-name: .NET
+name: Build and test on windows-latest
 
 on:
   push:
