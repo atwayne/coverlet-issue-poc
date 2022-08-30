@@ -21,6 +21,7 @@ namespace ClassLibraryTests
         }
 
         [Test]
+        [Category("TroubleMaker")]
         public void TroubleMaker()
         {
             // Arrange
