@@ -1,3 +1,6 @@
+This is a known issue described here:
+https://github.com/coverlet-coverage/coverlet/blob/master/Documentation/KnownIssues.md#1-vstest-stops-process-execution-earlydotnet-test
+
 # coverlet-issue-poc
 
 1. Run all tests but get zero line coverage
